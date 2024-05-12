@@ -10,5 +10,10 @@
 
 </ol>
 
- 
+ #### Python Programming
+ <ol>
+- [Python Basics](https://realpython.com/tutorials/basics/)
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/)
+</ol>
 
