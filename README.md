@@ -17,5 +17,6 @@
 - [Python Basics](https://realpython.com/tutorials/basics/)   
 - [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/)
+- [Virtual Envirornments](https://docs.python-guide.org/dev/virtualenvs/)
 </ol>
 
